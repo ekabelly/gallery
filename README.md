@@ -1,14 +1,11 @@
 To install this project, please me sure you have node 10 or higher installed. \
 Next, to clone this project, type in the terminal: \
-
 `
 git clone https://github.com/ekabelly/gallery.git
 `\
-
 `
 git submodule init
 `\
-
 `
 git submodule update
 `\
